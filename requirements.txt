@@ -1,9 +1,0 @@
-streamlit
-pandas
-google-play-scraper
-konlpy
-matplotlib
-wordcloud
-python-docx
-reportlab
-anthropic
